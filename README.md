@@ -17,8 +17,6 @@ A Chrome extension that automatically collects and claims tasks from the SNOC pl
 ### Automation
 - **Automatic Task Selection**: Scans and selects eligible tasks without manual intervention
 - **Automatic Claiming**: Claims selected tasks with proper timing and confirmation handling
-- **Smart Refresh**: Automatically refreshes the page when no eligible tasks are found
-- **Address Auto-Fill**: Automatically populates address fields with commune data
 
 ### Rate Limiting
 - **Configurable Rate Limit**: Default 10 tasks per minute (adjustable 1-100)
